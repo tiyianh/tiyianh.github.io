@@ -4,7 +4,7 @@
 
 A 14 year girl...
 
-![alt text](https://camo.githubusercontent.com/d490e08589ddb7bcba32eda629b49a3595aca559/687474703a2f2f696d672e6f7665722d626c6f672e636f6d2f343132783535302f332f39372f36332f32352f546979692d312f546979692d312d303239382e6a7067)
+![Tiyi Anh](https://camo.githubusercontent.com/d490e08589ddb7bcba32eda629b49a3595aca559/687474703a2f2f696d672e6f7665722d626c6f672e636f6d2f343132783535302f332f39372f36332f32352f546979692d312f546979692d312d303239382e6a7067)
 
 
 ### Some articles from my blog
@@ -14,6 +14,5 @@ A 14 year girl...
 
 ### I offer services to interested parents
 
-#### I can look after kids
-
-#### I can help kids practice languages: English, French, Japanese.
+* I can look after kids
+* I can help kids practice languages: English, French, Japanese.
