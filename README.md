@@ -4,7 +4,7 @@
 
 A 14 year girl...
 
-![alt text](http://img.over-blog.com/412x550/3/97/63/25/Tiyi-1/Tiyi-1-0298.jpg)
+![alt text](https://camo.githubusercontent.com/d490e08589ddb7bcba32eda629b49a3595aca559/687474703a2f2f696d672e6f7665722d626c6f672e636f6d2f343132783535302f332f39372f36332f32352f546979692d312f546979692d312d303239382e6a7067)
 
 
 ### Some articles from my blog
